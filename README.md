@@ -1,5 +1,5 @@
 # Automated-Hyperparameter-Tuning-For-Depp-Neural-Network
- How you can do Hyperparameter Optimization for a NeuralNetwork automatically using Optuna. This is an end-to-end video in which I select a problem and design a neural network in PyTorch and then I find the optimal number of layers, drop out, learning rate, and other parameters using Optuna.
+ How you can do Hyperparameter Optimization for a NeuralNetwork automatically using Optuna. This is an end-to-end code in which I select a problem and design a neural network in PyTorch and then I find the optimal number of layers, drop out, learning rate, and other parameters using Optuna.
  
  This code is base in aproach by Abhishek Thakur. 
  

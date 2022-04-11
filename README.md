@@ -5,7 +5,7 @@
  
  The dataset used was "Mechanisms of Action (MoA) Prediction". 
  
- Link to dataset-> https://www.kaggle.com/c/lish-moa
+ Link to download the dataset-> https://www.kaggle.com/c/lish-moa
 
   https://www.youtube.com/watch?v=4MK_OJJ82YI
 
